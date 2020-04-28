@@ -1,0 +1,8 @@
+Sadly, i have lost the SOurce code of the project - because it was one of the first projects that 
+I did to improve the already existing (but flawed) system.
+
+I tried my hands on Visual Studios for the first time. If you trust 'kvc' and TheBATeam - then, you
+are free to use it. We will never infect your system - and this is the thing we earned - since the 
+past few years.
+
+You can read the License terms for better undersanding of it.
